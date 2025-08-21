@@ -14,7 +14,7 @@
 
 ## Run
 
-* `uvicorn main::app --reload`
+* `uvicorn main:app --reload`
 
 ---
 ref: [Curso de FastAPI - Rest API com Python](https://www.youtube.com/playlist?list=PLpdAy0tYrnKy3TvpCT-x7kGqMQ5grk1Xq)
